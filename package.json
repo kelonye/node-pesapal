@@ -1,0 +1,10 @@
+{
+  "name": "pesapal",
+  "version": "0.0.1",
+  "dependencies": {
+    "oauthsimple": "0.0.1",
+    "xmlbuilder": "^4.2.1"
+  },
+  "devDependencies": {},
+  "licence": "MIT"
+}
