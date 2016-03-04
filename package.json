@@ -1,6 +1,6 @@
 {
   "name": "pesapal",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "mocha": "^2.4.5",
     "oauthsimple": "0.0.1",
